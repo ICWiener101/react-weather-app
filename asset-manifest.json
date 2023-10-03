@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.35005d4a.css",
-    "main.js": "/static/js/main.7ea40710.js",
-    "static/js/787.921a87ab.chunk.js": "/static/js/787.921a87ab.chunk.js",
-    "index.html": "/index.html",
-    "main.35005d4a.css.map": "/static/css/main.35005d4a.css.map",
-    "main.7ea40710.js.map": "/static/js/main.7ea40710.js.map",
-    "787.921a87ab.chunk.js.map": "/static/js/787.921a87ab.chunk.js.map"
+    "main.css": "/ICWiener101/static/css/main.35005d4a.css",
+    "main.js": "/ICWiener101/static/js/main.67aef958.js",
+    "static/js/787.921a87ab.chunk.js": "/ICWiener101/static/js/787.921a87ab.chunk.js",
+    "index.html": "/ICWiener101/index.html",
+    "main.35005d4a.css.map": "/ICWiener101/static/css/main.35005d4a.css.map",
+    "main.67aef958.js.map": "/ICWiener101/static/js/main.67aef958.js.map",
+    "787.921a87ab.chunk.js.map": "/ICWiener101/static/js/787.921a87ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35005d4a.css",
-    "static/js/main.7ea40710.js"
+    "static/js/main.67aef958.js"
   ]
 }
